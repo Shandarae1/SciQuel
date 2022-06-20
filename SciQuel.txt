@@ -1,1 +1,11 @@
+SciQuel web team meeting notes:
+https://docs.google.com/document/d/1v3h4aS0ToVfzxflgYt0rAzq2wmgbGxVrSBEIUZ3pQdw/edit
 
+SciQuel website documentation:
+https://docs.google.com/document/d/1GO6bPIJXnITBOSTooKtVjeHcNGmOHdwW_uKdgX-EsJ8/edit
+
+Website idea slides:
+https://docs.google.com/presentation/d/1fAgIV9vAgjzBCzugn-h77gpAqclEs2U5OJsBwhOjsGA/edit#slide=id.p
+
+Figma:
+https://www.figma.com/proto/csh9TbcSUWbfUK5Mn1tN4W/SciQuel-Website-Design-v3?node-id=453%3A65&starting-point-node-id=453%3A65
