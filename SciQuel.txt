@@ -9,3 +9,5 @@ https://docs.google.com/presentation/d/1fAgIV9vAgjzBCzugn-h77gpAqclEs2U5OJsBwhOj
 
 Figma:
 https://www.figma.com/proto/csh9TbcSUWbfUK5Mn1tN4W/SciQuel-Website-Design-v3?node-id=453%3A65&starting-point-node-id=453%3A65
+
+some more text
